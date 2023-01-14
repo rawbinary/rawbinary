@@ -17,9 +17,9 @@ I code.. (i guess)
  # My Github Stats ⭐
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rawbinary&theme=dark)](https://git.io/streak-stats)
  
-[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawbinary&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawbinary&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawbinary&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawbinary&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
  
 
 <!--
