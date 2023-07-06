@@ -4,13 +4,10 @@ I **build** thing. (sometimes break too, cus why not?)
 
 💬 A self-taught coder who started coding at the age of 12.
 
-🔭 [TypeScript](https://www.typescriptlang.org/) is my bread with type-safety as the butter.
+🔭 [TypeScript](https://www.typescriptlang.org/) 
+💔 [Rust](https://www.rust-lang.org/) 
 
-💻 Love for techs with type-safety; [tRPC](https://trpc.io), [Prisma](https://www.prisma.io/), [Zod](https://zod.dev/), [T3 Stack](https://create.t3.gg)
-
-💔 [Rust](https://www.rust-lang.org/) is the unrequited love.
-
-🍀 Worked with PHP and C# in the past, and still when required.
+🍀 Worked with PHP and C# in the past.
 
 ## My Github Stats ⭐
 
